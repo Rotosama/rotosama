@@ -7,6 +7,8 @@
 
 ### 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react)
+![My Skills](https://skillicons.dev/icons?i=node,express,ruby,rails)
+
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
