@@ -1,4 +1,8 @@
-## Hi there 👋, I'm Nacho Ruiz, a Full stack developer from Valencia, Spain.
+## Hi there 👋, I'm Nacho Ruiz.
+
+#### I`m a Full Stack developer from Valencia, Spain
+
+
 
 
 ### 💻 Tech Stack:
