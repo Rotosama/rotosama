@@ -6,9 +6,11 @@
 
 
 ### 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react)  
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,ruby,rails)  
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react)  
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,ruby,rails,java)  
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman)  
+![My Skills](https://skillicons.dev/icons?i=vite,vscode,git,github)
+
 
 
 
