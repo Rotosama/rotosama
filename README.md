@@ -6,7 +6,7 @@
 
 
 ### 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react)  
 ![My Skills](https://skillicons.dev/icons?i=node,express,ruby,rails)
 
 
