@@ -1,12 +1,13 @@
 ## Hi there 👋, I'm Nacho Ruiz.
 
 #### I`m a Full Stack developer from Valencia, Spain
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-
 
 ### 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react)  
+~~~
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react)
+~~~
+
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,ruby,rails,java)  
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman)  
 ![My Skills](https://skillicons.dev/icons?i=vite,vscode,git,github)
