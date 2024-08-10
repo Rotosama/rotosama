@@ -4,18 +4,14 @@
 
 ### 💻 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react)  
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,ruby,rails,java)  
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman)  
 ![My Skills](https://skillicons.dev/icons?i=vite,vscode,git,github)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
 # 📊 GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotosama&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=rotosama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rotosama&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rotosama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
