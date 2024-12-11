@@ -2,8 +2,8 @@
 
 #### 🚀 Full Stack Developer | 🌍 Based in Valencia, Spain  
 
-I have over 1 year of experience as a Full Stack Developer, specializing in building scalable and user-friendly web applications using modern technologies.  
-I'm passionate about creating clean, efficient code and solving complex problems. When I'm not coding, I enjoy [añade un hobby o interés, como "exploring new tech trends" o algo más personal].  
+I have over 2 years of experience as a Full Stack Developer, specializing in building scalable and user-friendly web applications using modern technologies.  
+I'm passionate about creating clean, efficient code and solving complex problems. When I'm not coding, I enjoy exploring new tech trends.
 
 Feel free to check out my projects or connect with me!
 
