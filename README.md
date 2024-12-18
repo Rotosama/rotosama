@@ -2,10 +2,26 @@
 
 #### 🚀 Full Stack Developer | 🌍 Based in Valencia, Spain  
 
-I have over 2 years of experience as a Full Stack Developer, specializing in building scalable and user-friendly web applications using modern technologies.  
-I'm passionate about creating clean, efficient code and solving complex problems. When I'm not coding, I enjoy exploring new tech trends.
+# 🇬🇧 Full Stack Developer  
+With over 2 years of experience, I specialize in developing scalable and user-friendly web applications using modern technologies like **Ruby on Rails, React, JavaScript, HTML, CSS, Node.js, and Java**. I’m passionate about writing clean, efficient code and solving complex problems with creative solutions.  
 
-Feel free to check out my projects or connect with me!
+I’m constantly learning and staying up-to-date with new technologies to keep growing as a developer. Currently, I’m exploring backend frameworks like **Spring** to expand my skill set further.  
+
+Outside of coding, I enjoy **cooking** and **playing video games**—two hobbies that inspire me and help me recharge.  
+
+Feel free to check out my repositories and connect with me!  
+
+---
+
+# 🇪🇸 Desarrollador Full Stack  
+Con más de 2 años de experiencia, me especializo en desarrollar aplicaciones web escalables y fáciles de usar, utilizando tecnologías modernas como **Ruby on Rails, React, JavaScript, HTML, CSS, Node.js y Java**. Me apasiona escribir código limpio, eficiente y resolver problemas complejos de manera creativa.  
+
+Siempre estoy aprendiendo y manteniéndome actualizado con nuevas tecnologías para seguir creciendo como desarrollador. Actualmente, estoy explorando frameworks backend como **Spring** para ampliar aún más mis habilidades.  
+
+Fuera del mundo del código, disfruto de la **cocina** y los **videojuegos**, dos pasatiempos que me inspiran y me ayudan a desconectar.  
+
+¡Echa un vistazo a mis repositorios y no dudes en contactarme!  
+
 
 ### 💻 Tech Stack:
 
