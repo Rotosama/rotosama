@@ -26,7 +26,7 @@ Fuera del mundo del código, disfruto de la **cocina** y los **videojuegos**, do
 ### 💻 Tech Stack:
 
 #### 🌐 Frontend  
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,astro)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,astro,vue)
 
 #### 🖥️ Backend  
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,ruby,rails,java)
